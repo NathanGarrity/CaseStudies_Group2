@@ -7,6 +7,7 @@ pip install seaborn
 pip install scikit-learn  
 pip install scipy  
 pip install statsmodels 
+pip install google-generativeai
 
 Getting an Gemini API Key:
 1. Go to: https://aistudio.google.com/app/apikey 
