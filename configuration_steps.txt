@@ -18,7 +18,7 @@ Getting an Gemini API Key:
 
 4. Copy the API key shown.
 
-5. After getting the API key, paste the API key into this line in the notebook:
+5. After getting the API key, paste the API key into this line in the notebook surrounded by the quotations:
 os.environ["GOOGLE_API_KEY"] = "paste_the_api_key_here"
 
 6. Enter this into the environments terminal if on windows:
